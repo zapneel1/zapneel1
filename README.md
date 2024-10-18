@@ -1,6 +1,6 @@
 - 👋 Hi, I’m swapneel layek
 - 👀 enthusiastic in cyber security, application development, web development
-- 💤 currently pursuing BTech in mechanincal engg at IIT Kharagpur
+- 💤 currently pursuing BTech in mechanical engg at IIT Kharagpur
 - 💞️ always available to collaborate on open-source projects
 
 
