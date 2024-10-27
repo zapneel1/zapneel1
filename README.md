@@ -1,7 +1,9 @@
--Hi, I’m swapneel layek
--interests include cybersecurity, webdev, datascience
--currently pursuing BTech in mechanical engg at IIT Kharagpur
--always available to collaborate on open-source projects
+<div style="font-family: 'Menlo', 'Source Code Pro', monospace; line-height: 1.2;">
+  - Hi, I’m swapneel layek<br>
+  - interests include cybersecurity, webdev, datascience<br>
+  - currently pursuing BTech in mechanical engg at IIT Kharagpur
+  - always available to collaborate on open-source projects
+</div>
 
 here's where i store my projects, hmu if u ve any suggestions <3
 
