@@ -1,7 +1,9 @@
-- 👋 Hi, I’m swapneel layek
-- 👀 enthusiastic in cyber security, application development, web development
-- 💤 currently pursuing BTech in mechanical engg at IIT Kharagpur
-- 💞️ always available to collaborate on open-source projects
+- Hi, I’m swapneel layek
+- interests include cybersecurity, webdev, datascience
+- currently pursuing BTech in mechanical engg at IIT Kharagpur
+- always available to collaborate on open-source projects
+
+here's where i store my projects, hmu if u ve any suggestions <3
 
 
 <!---
